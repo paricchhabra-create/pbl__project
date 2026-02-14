@@ -26,11 +26,10 @@ The system detects pollution sources and reduces CO₂ biologically while provid
 
 ## 🔧 Hardware Used
 
-- ESP32  
-- MQ135 Air Quality Sensor  
-- PMS5003 Dust Sensor  
-- DHT22 Temperature & Humidity Sensor  
-- MH-Z19 CO₂ Sensor  
+- ESP32(arduino UNO)
+- MQ Gs sensor 
+- Temperature & Humidity Sensor  
+- Buzzer 
 - LED Grow Light  
 
 ---
