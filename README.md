@@ -83,7 +83,7 @@ The prototype validates the feasibility of combining IoT-based pollution detecti
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * To monitor air quality in residential areas and schools.
 * To identify specific pollution causes in localized regions.
@@ -93,7 +93,7 @@ The prototype validates the feasibility of combining IoT-based pollution detecti
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
 * Integration with AI-based pollution prediction models.
 * Cloud-based data storage and mobile application monitoring.
@@ -103,7 +103,7 @@ The prototype validates the feasibility of combining IoT-based pollution detecti
 
 ---
 
-## 🌍 Impact
+##  Impact
 
 * Reduction in localized CO₂ concentration
 * Sustainable air purification
@@ -113,16 +113,13 @@ The prototype validates the feasibility of combining IoT-based pollution detecti
 
 ---
 
-## 👩‍🏫 Project Guide
+##  Project Guide
 
 Dr. Sushama
 
 ---
 
-## 👩‍🎓 Student Details
+##  Student Details
 
 Name: Pari Chhabra
 Registration No.: 2427030599
-
----
-Tell me what you want next 🌱🚀
